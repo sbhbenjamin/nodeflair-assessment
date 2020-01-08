@@ -2,7 +2,7 @@
 
 1. Create a simple ReactJS application that has a form that takes in 2 number inputs. When the form is submitted, it displays the sum of the 2 numbers on the screen.
 
- * Solution: **additon-app** 
+ * Solution: **addition-app** 
 
 
 
