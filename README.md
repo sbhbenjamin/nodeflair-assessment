@@ -4,7 +4,7 @@
 
  * Solution: **additon-app** 
 
---
+
 
 2. Create a ReactJS component that shows the current xkcd comic image on screen. You can retrieve information about the current comic at this link [https://xkcd.com/json.html](https://xkcd.com/json.html)
 
