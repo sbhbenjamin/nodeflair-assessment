@@ -10,6 +10,6 @@
 
  * Solution: **xkcd-api**
 
-⋅⋅⋅Remarks: I had to postfix the API link after the CORS Anywhere URL (a NodeJS proxy to add CORS header to the request) as I ran into this error when using the API alone:
+Remarks: I had to postfix the API link after the CORS Anywhere URL (a NodeJS proxy to add CORS header to the request) as I ran into this error when using the API alone: 
 
-⋅⋅⋅```Access to fetch at '<https://xkcd.com/info.0.json>' from origin '<http://localhost:3000>' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.```
+```Access to fetch at '<https://xkcd.com/info.0.json>' from origin '<http://localhost:3000>' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.```
